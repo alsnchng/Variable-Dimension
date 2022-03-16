@@ -66,6 +66,7 @@ across the page to direct to the contents*/
     color: antiquewhite;
     font: 14px helvetica, sans-serif;
     line-height: 1.5;
+	z-index: 1;
 }
 .web-p2{
 	width: 100%;
@@ -74,6 +75,7 @@ across the page to direct to the contents*/
     color: antiquewhite;
     font: 14px helvetica, sans-serif;
     line-height: 1.5;
+	z-index: 1;
 }
 
 
